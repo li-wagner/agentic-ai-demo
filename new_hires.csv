@@ -1,0 +1,16 @@
+first_name,last_name,personal_email,employee_type,region,country_code,division,department,company_name,start_date,manager
+Amara,Okafor,amara.okafor@example.com,Regular,EMEA,GB,Retail,Services,NW Retail,2026-12-01,Tom Becker
+Jonas,Keller,jonas.keller@example.com,Intern,EMEA,DE,Industrial,Engineering,NW Industrial,2026-12-01,Sofia Marin
+Priya,Nair,priya.nair@example.com,"regular ",APAC,IN,Financial Services,Development,NW Financial Services,2026-12-01,Arjun Pillai
+Lucas,Moreau,lucas.moreau@example.com,Contractor,EMEA,FR,Media,Services,NW Media,2026-12-08,Claire Dubois
+Marta,Kowalska,marta.kowalska@example.com,Regular,Europe,PL,Retail,Sales,NW Retail,2026-12-08,Piotr Nowak
+Ethan,Brooks,ethan.brooks@example.com,Regular,AMER,US,Corporate,Finance,Finance,2026-12-08,Megan Hart
+Siti,Rahman,siti.rahman@example.com,Regular,APAC,MY,Media,Services,NW Retail,2026-12-08,Daniel Lim
+Noah,Tremblay,noah.tremblay@example.com,Temporary Employee,AMER,CA,Industrial,Services,NW Industrial,2026-12-15,Megan Hart
+Olivia,Hughes,olivia.hughes@example.com,Regular,EMEA,UK,Corporate,Legal,Legal,2026-12-15,Tom Becker
+Wei,Tan,wei.tan@example.com,Student,APAC,SG,Financial Services,Development,NW Financial Services,2026-12-15,Daniel Lim
+Lena,Fischer,,Regular,EMEA,DE,Corporate,HR,HR,2026-12-15,Sofia Marin
+Liam,Carter,liam.carter@example.com,Contractor,APAC,AU,Retail,Services,NW Retail,2027-01-05,Daniel Lim
+Aisha,Khan,aisha.khan@example.com,Regular,AMER,US,Incubator,Product,NW Industrial,2027-01-05,Megan Hart
+Ben,Schmidt,ben.schmidt@example.com,Regular,EMEA,DE,Corporate,IT,IT,2027-01-05,Sofia Marin
+Chloe,Martin,chloe.martin@example.com,Intern,AMER,CA,Media,Marketing,NW Media,2027-01-05,Claire Dubois
