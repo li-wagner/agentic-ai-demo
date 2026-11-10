@@ -1,0 +1,16 @@
+serial_number,model,assigned_user,status,status_date,notes
+SN-A1001,Latitude 7440,,Returned,2026-09-20,Returned by daniel.weber@northwind.example after offboarding
+SN-A1002,Latitude 7440,sarah.collins@northwind.example,Deployed,2025-03-10,
+SN-M2001,MacBook Pro 14,julien.bernard@northwind.example,Deployed,2025-06-02,
+SN-A1003,Latitude 7450,emma.lindqvist@northwind.example,Deployed,2025-11-17,
+SN-A1004,Latitude 7440,kofi.mensah@northwind.example,Deployed,2025-01-13,
+SN-A1005,Latitude 7340,hannah.novak@northwind.example,Deployed,2024-09-02,
+SN-A1006,Latitude 7440,,In stock,2026-09-05,Previously raj.iyer@northwind.example; replaced by SN-A1106
+SN-A1106,Latitude 7450,raj.iyer@northwind.example,Deployed,2026-09-03,Replacement for SN-A1006
+SN-M2002,MacBook Air 13,mei.chen@northwind.example,Deployed,2024-04-15,Replaced by SN-M2102; return pending
+SN-M2102,MacBook Pro 14,mei.chen@northwind.example,Deployed,2026-09-22,Replacement for SN-M2002
+SN-A1007,Latitude 7440,oliver.grant@northwind.example,Deployed,2025-02-24,
+SN-A1008,Latitude 7440,lucia.ferreira@northwind.example,Deployed,2025-05-19,
+SN-A1009,Latitude 7450,tomasz.wrobel@northwind.example,Deployed,2025-08-04,
+SN-A1010,Latitude 7340,grace.adeyemi@northwind.example,Deployed,2025-10-06,
+SN-A1201,Latitude 7450,,In stock,2026-10-12,New stock

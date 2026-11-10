@@ -1,0 +1,13 @@
+device_name,serial_number,platform,assigned_user,user_status_ea7,leave_flag_ea9,last_checkin,days_since_checkin,report_date
+NW-W-1001,SN-A1001,Windows,daniel.weber@northwind.example,Terminated,,2026-09-10,53,2026-11-02
+NW-W-1002,SN-A1002,Windows,sarah.collins@northwind.example,Terminated,,2026-09-15,48,2026-11-02
+NW-M-2001,SN-M2001,macOS,julien.bernard@northwind.example,Terminated,,2026-09-14,49,2026-11-02
+NW-W-1003,SN-A1003,Windows,emma.lindqvist@northwind.example,Terminated,,2026-08-28,66,2026-11-02
+NW-W-1004,SN-A1004,Windows,kofi.mensah@northwind.example,Active,,2026-08-20,74,2026-11-02
+NW-W-1005,SN-A1005,Windows,hannah.novak@northwind.example,Active,Leave until 2026-10-01,2026-06-25,130,2026-11-02
+NW-W-1006,SN-A1006,Windows,raj.iyer@northwind.example,Active,,2026-09-01,62,2026-11-02
+NW-M-2002,SN-M2002,macOS,mei.chen@northwind.example,Active,,2026-09-20,43,2026-11-02
+NW-W-1007,SN-A1007,Windows,oliver.grant@northwind.example,Active,,2026-08-16,78,2026-11-02
+NW-W-1008,SN-A1008,Windows,lucia.ferreira@northwind.example,Terminated,,2026-09-25,38,2026-11-02
+NW-W-1009,SN-A1009,Windows,tomasz.wrobel@northwind.example,Active,,2026-09-28,35,2026-11-02
+NW-W-1010,SN-A1010,Windows,grace.adeyemi@northwind.example,Active,,2026-09-22,41,2026-11-02

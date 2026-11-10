@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(data/**)",
+      "Write(data/**)",
+      "Edit(CLAUDE.md)",
+      "Write(CLAUDE.md)",
+      "Edit(.claude/**)",
+      "Write(.claude/**)"
+    ]
+  }
+}
