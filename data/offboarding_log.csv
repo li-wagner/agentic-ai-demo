@@ -1,0 +1,8 @@
+user_email,ticket,last_working_day,laptop_returned,garden_leave_end
+daniel.weber@northwind.example,OFF-1041,2026-09-12,Yes,
+sarah.collins@northwind.example,OFF-1043,2026-09-18,No,
+julien.bernard@northwind.example,OFF-1044,2026-09-18,No,
+emma.lindqvist@northwind.example,OFF-1038,2026-08-29,No,2026-11-29
+lucia.ferreira@northwind.example,OFF-1047,2026-09-26,Yes,
+tomasz.wrobel@northwind.example,OFF-1049,2026-09-30,No,
+felix.braun@northwind.example,OFF-1052,2026-10-15,Yes,
