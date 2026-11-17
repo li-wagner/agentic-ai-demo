@@ -6,7 +6,12 @@
       "Edit(CLAUDE.md)",
       "Write(CLAUDE.md)",
       "Edit(.claude/**)",
-      "Write(.claude/**)"
+      "Write(.claude/**)",
+      "Bash(sed -i:*)",
+      "Bash(tee:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)"
     ]
   }
 }
