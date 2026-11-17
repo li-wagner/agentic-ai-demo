@@ -1,5 +1,14 @@
 {
   "permissions": {
+    "allow": [
+      "Bash(mkdir -p docs/*)",
+      "Bash(cp * docs/*)",
+      "Bash(git checkout -b:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push -u origin:*)",
+      "Bash(gh pr create:*)"
+    ],
     "deny": [
       "Edit(data/**)",
       "Write(data/**)",
@@ -9,7 +18,9 @@
       "Write(.claude/**)",
       "Bash(sed -i:*)",
       "Bash(tee:*)",
-      "Bash(cp:*)",
+      "Bash(cp * data/*)",
+      "Bash(cp * ./data/*)",
+      "Bash(cp * */data/*)",
       "Bash(mv:*)",
       "Bash(rm:*)"
     ]
