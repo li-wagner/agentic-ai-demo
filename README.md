@@ -18,7 +18,8 @@ reviews and decides.
 ## Guardrails
 
 - **Instructions:** CLAUDE.md and the agent files define what each agent may do
-- **Enforced rules:** `.claude/settings.json` blocks edits to data and instructions
+- **Deny rules:** `.claude/settings.json` blocks file edits to data and instructions, and common shell writes. This is a convention and a speed bump, not a security boundary
+- **CI check:** a pull request that changes `data/`, `CLAUDE.md` or `.claude/` fails. This is the enforcement
 - **Branch protection:** nothing reaches `main` without a pull request
 - **Human in the loop:** agents propose, a human decides and acts
 
