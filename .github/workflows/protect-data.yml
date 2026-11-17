@@ -1,0 +1,20 @@
+name: Protect data
+on:
+  pull_request:
+    branches: [main]
+jobs:
+  protect-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fail if protected files changed
+        run: |
+          changed=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- data CLAUDE.md .claude)
+          if [ -n "$changed" ]; then
+            echo "Protected files changed in this PR:"
+            echo "$changed"
+            exit 1
+          fi
+          echo "No protected files changed."
