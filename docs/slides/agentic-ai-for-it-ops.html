@@ -517,13 +517,13 @@
   .s-gitgh .stage-cards { position: relative; height: 410px; margin-top: 24px; }
   .s-gitgh .pair { position: absolute; inset: 0; grid-template-columns: 600px 1fr; column-gap: 40px; align-items: center; }
   .s-gitgh .pair .card { width: 600px; height: 400px; margin: 0; padding: 40px 44px; }
-  .s-gitgh .shot { justify-self: end; width: fit-content; height: auto; margin: 0; cursor: zoom-in; }
+  .s-gitgh .pair .shot { justify-self: end; width: fit-content; height: auto; margin: 0; cursor: zoom-in; }
   .s-gitgh .shot img { display: block; height: 400px; width: auto; max-width: 960px; object-fit: contain; }
   .s-gitgh .shot .git-tag { left: 8px; bottom: auto; top: 92px; font-size: 24px; }
   .s-gitgh .shot .expand { position: absolute; top: 14px; right: 14px; width: 52px; height: 52px; border-radius: 50%; background: #121212; color: #FFFFFF; display: grid; place-items: center; pointer-events: none; }
   .s-gitgh .shot .expand svg { width: 26px; height: 26px; fill: none; stroke: currentColor; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
   .s-gitgh .shot:focus-visible { outline: 4px solid var(--primary); outline-offset: 4px; }
-  .pair:not(.on) .shot, .pair.gone .shot { pointer-events: none; }
+  .pair:not(.on) { pointer-events: none; }
   .s-gitgh .gitnote { margin-top: 14px; }
   .s-gitgh .closing-line { margin-top: 14px; }
 
