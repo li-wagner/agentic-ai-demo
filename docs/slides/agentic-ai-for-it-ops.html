@@ -554,7 +554,7 @@
 .s-setup .agent { position: relative; overflow: hidden; background: var(--white); border: 2px solid var(--line); border-radius: 16px; padding: 34px 40px 24px; }
 .s-setup .agent::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 12px; background: linear-gradient(to right, var(--c) 55%, var(--t, #C7E3FF) 55%); }
 .s-setup .agent h3 { font-size: 36px; font-weight: 700; margin: 0 0 4px; }
-.s-setup .agent .model { font-size: 24px; color: var(--muted); margin: 0 0 14px; }
+.s-setup .agent .model { position: absolute; top: 30px; right: 32px; margin: 0; background: var(--c); color: #FFFFFF; font-size: 24px; font-weight: 700; line-height: 34px; padding: 4px 18px; border-radius: 999px; white-space: nowrap; }
 .s-setup .agent p { font-size: 24px; line-height: 32px; color: var(--ink); margin: 0 0 14px; }
 .s-setup .agent p b { color: var(--primary); }
 /* Slide 7: five term cards above a repository graph */
@@ -878,7 +878,7 @@
       <p><b>Does:</b> Cross-checks the four files, applies the CLAUDE.md rules in order, and proposes one action per device in output/action_plan.md.</p>
       <p><b>Limits:</b> Writes that one file only. Cannot edit data/ or CLAUDE.md, run commands, commit or push. If no rule fits: NEEDS HUMAN REVIEW, never a guess.</p>
     </div>
-    <div class="agent" style="--c:#A933FB">
+    <div class="agent" style="--c:#A933FB;--t:#CE91F4">
       <h3>action-reviewer</h3>
       <p class="model">Opus</p>
       <p><b>Does:</b> Re-derives each action from the source data without trusting the plan's reasoning. Verdict per device is AGREE, DISPUTE or ESCALATE.</p>
