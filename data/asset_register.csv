@@ -1,19 +1,19 @@
 serial_number,model,assigned_user,status,status_date,notes
 5KQ2MX3,Latitude 5440,,Returned,2026-09-24,Returned by daniel.weber@northwind.example after offboarding
-H8TV2N3,Latitude 5420,sarah.collins@northwind.example,Deployed,2025-04-02,
-C02ZK3LMQ6L4,MacBook Pro 14,julien.bernard@northwind.example,Deployed,2025-06-25,
-PF3XQ8WD,21HD005RUS,emma.lindqvist@northwind.example,Deployed,2025-12-10,
-9LM4RC3,Latitude 5440,kofi.mensah@northwind.example,Deployed,2025-02-05,
-PF4A7ZKH,21CB0070US,hannah.novak@northwind.example,Deployed,2023-02-28,
+H8TV2N3,Latitude 5420,sarah.collins@northwind.example,In Use,2025-04-02,
+7RN4DK3,Latitude 5440,julien.bernard@northwind.example,In Use,2025-06-25,
+PF3XQ8WD,21HD005RUS,emma.lindqvist@northwind.example,In Use,2025-12-10,
+9LM4RC3,Latitude 5440,kofi.mensah@northwind.example,In Use,2025-02-05,
+PF4A7ZKH,21CB0070US,hannah.novak@northwind.example,In Use,2023-02-28,
 3DJ6PW3,Latitude 5420,,In stock,2026-10-19,Previously raj.iyer@northwind.example; replaced by 8VN1QK3
-C02WL9PSQ05D,MacBook Air 13,mei.chen@northwind.example,Deployed,2024-05-08,Replaced by C02FX7R2MD6T; return pending
-2HR9ST3,Latitude 5440,oliver.grant@northwind.example,Deployed,2025-03-19,
-BX7K5Y3,Latitude 5440,lucia.ferreira@northwind.example,Deployed,2025-06-11,
-PF58NGE2,21HD005RUS,tomasz.wrobel@northwind.example,Deployed,2025-08-27,
-6TC3WB3,Latitude 5420,grace.adeyemi@northwind.example,Deployed,2025-10-29,
-JW2P8D3,Precision 7680,nikolai.petrov@northwind.example,Deployed,2026-03-31,
-PF2GM6XA,21CB0070US,priya.nair@northwind.example,Deployed,2026-07-14,
-4MZ8LH3,Latitude 5440,diego.santos@northwind.example,Deployed,2025-01-13,
-8VN1QK3,Latitude 5450,raj.iyer@northwind.example,Deployed,2026-09-26,Replacement for 3DJ6PW3
-C02FX7R2MD6T,MacBook Pro 14,mei.chen@northwind.example,Deployed,2026-10-15,Replacement for C02WL9PSQ05D
+D3HB6X3,Latitude 5420,mei.chen@northwind.example,In Use,2024-05-08,Replaced by K9QW2M3; return pending
+2HR9ST3,Latitude 5440,oliver.grant@northwind.example,In Use,2025-03-19,
+BX7K5Y3,Latitude 5440,lucia.ferreira@northwind.example,In Use,2025-06-11,
+PF58NGE2,21HD005RUS,tomasz.wrobel@northwind.example,In Use,2025-08-27,
+6TC3WB3,Latitude 5420,grace.adeyemi@northwind.example,In Use,2025-10-29,
+JW2P8D3,Precision 7680,nikolai.petrov@northwind.example,In Use,2026-03-31,
+PF2GM6XA,21CB0070US,priya.nair@northwind.example,In Use,2026-07-14,
+4MZ8LH3,Latitude 5440,diego.santos@northwind.example,In Use,2025-01-13,
+8VN1QK3,Latitude 5450,raj.iyer@northwind.example,In Use,2026-09-26,Replacement for 3DJ6PW3
+K9QW2M3,Latitude 5450,mei.chen@northwind.example,In Use,2026-10-15,Replacement for D3HB6X3
 N5WK9R3,Latitude 5450,,In stock,2026-10-27,New stock
