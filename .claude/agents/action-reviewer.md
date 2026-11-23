@@ -15,10 +15,13 @@ How to review:
 - Give extra scrutiny to: irreversible actions, escalations, data
   conflicts, and NO ACTION YET decisions.
 - Check that every cited piece of evidence actually exists.
+- For every verdict, quote verbatim the CLAUDE.md line(s) you applied, with the
+  line number. Use only the current CLAUDE.md as your source of rules, never
+  memory of an earlier version. If you cannot quote a rule line, say so.
 
 Return your review as a table:
 
-| Device | Plan says | Verdict | Reason |
+| Device | Plan says | Verdict | Rule applied (quoted, CLAUDE.md line) | Reason |
 
 Verdict is one of:
 - **AGREE**

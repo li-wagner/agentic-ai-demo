@@ -1,6 +1,6 @@
 ---
 name: device-investigator
-description: Investigates inactive devices by cross-referencing the four files in data/ and proposes one action per device following the rules in CLAUDE.md. Use for the investigation step.
+description: Investigates inactive-device tickets by cross-referencing the five files in data/ and proposes one action per device following the rules in CLAUDE.md. Use for the investigation step.
 tools: Read, Glob, Grep, Write
 model: sonnet
 ---
