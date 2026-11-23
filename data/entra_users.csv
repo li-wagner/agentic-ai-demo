@@ -1,0 +1,18 @@
+id,displayName,accountEnabled,userPrincipalName,companyName,usageLocation,country,city,officeLocation,userType,employeeType,department,Extension Attribute 1,Extension Attribute 7,Extension Attribute 9
+b461104a-0714-5646-999a-cc7d4368d575,Daniel Weber,FALSE,daniel.weber@northwind.example,Northwind Retail,DE,DE,Berlin,DEU - Berlin Office,Member,Regular,Support,Staff,Terminated,
+ed3ff933-2f24-53d5-998f-4a2d2b84c501,Sarah Collins,FALSE,sarah.collins@northwind.example,Northwind Retail,GB,GB,London,GBR - London Office,Member,Regular,Services,Staff,Terminated,
+1979ab93-827b-571f-bcf1-70496e2f5929,Julien Bernard,FALSE,julien.bernard@northwind.example,Northwind Financial Services,FR,FR,Paris,FRA - Paris Office,Member,Regular,Product,Staff,Terminated,
+25c8e7ca-5721-5a9b-ab71-2f83d54476c7,Emma Lindqvist,FALSE,emma.lindqvist@northwind.example,Northwind Retail,SE,SE,Stockholm,SWE - Stockholm Office,Member,Regular,Engineering,Staff,Terminated,
+25be4e27-fa64-5d9e-a1f7-5b5a304e3d10,Kofi Mensah,FALSE,kofi.mensah@northwind.example,Northwind Retail,GH,GH,Accra,GHA - Remote,Member,Regular,Support,Staff,Active,Leave of absence
+06150d44-506d-50b2-9b11-211ade8b0615,Hannah Novak,FALSE,hannah.novak@northwind.example,Northwind Financial Services,CZ,CZ,Prague,CZE - Prague Office,Member,Regular,Product,Staff,Active,Disabled after 30 days of inactivity
+3757c002-dc95-565d-a66b-ada278cabb58,Raj Iyer,TRUE,raj.iyer@northwind.example,Northwind Retail,IN,IN,Bangalore,IND - Remote,Member,Regular,Engineering,Staff,Active,
+e869ad6e-734d-5e08-85e8-f4e22963ba2f,Mei Chen,TRUE,mei.chen@northwind.example,Northwind Financial Services,SG,SG,Singapore,SGP - Singapore Office,Member,Regular,Product,Staff,Active,
+63827e66-3ee0-5294-af96-9dd381421616,Oliver Grant,TRUE,oliver.grant@northwind.example,Northwind Retail,US,US,Houston,TX - Remote,Member,Regular,Services,Staff,Active,
+b5e4707b-40b2-523e-b07a-43ad8bc81e02,Lucia Ferreira,FALSE,lucia.ferreira@northwind.example,Northwind Financial Services,PT,PT,Lisbon,PRT - Lisbon Office,Member,Regular,Support,Staff,Terminated,
+21aad256-c2b7-5866-9710-4606e0e6f8f7,Tomasz Wrobel,TRUE,tomasz.wrobel@northwind.example,Northwind Financial Services,PL,PL,Poznan,POL - Poznan Office,Member,Contractor,Engineering,Contractor,Terminated,
+f426baa9-c8fb-598f-af20-1d240c3ca1a1,Grace Adeyemi,FALSE,grace.adeyemi@northwind.example,Northwind Retail,CA,CA,Toronto,CAN - Toronto Office,Member,Contractor,Support,Contractor,Terminated,Disabled after 30 days of inactivity
+3ca4d4bf-4eb0-5294-a094-f1bac1d5217e,Nikolai Petrov,FALSE,nikolai.petrov@northwind.example,Northwind Financial Services,PL,PL,Poznan,POL - Poznan Office,Member,Contractor,Engineering,Contractor,Terminated,
+bce52ae3-d8d2-5ec0-b998-3fa4af0a24f0,Priya Nair,TRUE,priya.nair@northwind.example,Northwind Retail,IN,IN,Bangalore,IND - Remote,Member,Regular,Services,Staff,Active,
+71379425-02e6-5db5-95f2-b3344ffc995c,Diego Santos,TRUE,diego.santos@northwind.example,Northwind Retail,US,US,Houston,TX - Remote,Member,Regular,Services,Staff,Active,
+d8d80038-619c-5177-9b89-9cd4d2aed5a3,Felix Braun,TRUE,felix.braun@northwind.example,Northwind Retail,DE,DE,Berlin,DEU - Berlin Office,Member,Regular,Product,Staff,Active,
+53ce2803-bc0e-51e4-8d4c-9740ef2cba52,Anna Berg,FALSE,anna.berg@northwind.example,Northwind Financial Services,SE,SE,Stockholm,SWE - Stockholm Office,Member,Regular,Engineering,Staff,Active,Leave of absence
