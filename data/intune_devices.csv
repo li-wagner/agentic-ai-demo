@@ -1,0 +1,26 @@
+id,deviceId,isManaged,profileType,model,displayName,accountEnabled,operatingSystem,operatingSystemVersion,trustType,owner,mdm,securitySettingsManagement,isCompliant,registrationDateTime,approximateLastSignInDateTime
+b3cf6628-2259-5803-99c3-2796522377d1,31affc5b-63f7-5b03-a4d1-7319a85c3e87,TRUE,RegisteredDevice,Latitude 5440,NW-5KQ2MX3,TRUE,Windows,10.0.22631.7376,AzureAd,Daniel Weber,Microsoft Intune,Microsoft Intune,FALSE,1/13/2025,9/19/2026
+4089dccd-6d8e-5b83-87d9-523a247c950b,a4c5f3b5-f2c1-5fba-a0d5-b417874d3303,TRUE,RegisteredDevice,Latitude 5420,NW-H8TV2N3,TRUE,Windows,10.0.22631.7376,AzureAd,Sarah Collins,Microsoft Intune,Microsoft Intune,FALSE,4/2/2025,9/26/2026
+f82968aa-315a-518d-93c7-a268f1ed55dd,d7fe0426-949d-5a29-965b-edf91abecfcd,TRUE,RegisteredDevice,MacBook Pro 14,NW-C02ZK3LMQ6L4,TRUE,macOS,15.6.1,AzureAd,Julien Bernard,Microsoft Intune,Microsoft Intune,FALSE,6/25/2025,9/25/2026
+b0fe6b9b-44fe-549c-b7f5-c7085ab530c1,32ba0c5e-a461-5418-aa08-9b709374d8dd,TRUE,RegisteredDevice,21HD005RUS,NW-PF3XQ8WD,TRUE,Windows,10.0.22631.7219,AzureAd,Emma Lindqvist,Microsoft Intune,Microsoft Intune,FALSE,12/10/2025,9/21/2026
+7bd3ff28-d3e3-59cb-a91d-d807a9300428,5fa6e09f-79b2-5bff-b2de-8c22311717c9,TRUE,RegisteredDevice,Latitude 5440,NW-9LM4RC3,TRUE,Windows,10.0.26200.8653,AzureAd,Kofi Mensah,Microsoft Intune,Microsoft Intune,FALSE,2/5/2025,8/20/2026
+5a7f3121-c7b4-5eaf-8277-499ed2624f1c,acff3b31-6075-59e4-83ec-02383e406ccf,TRUE,RegisteredDevice,21CB0070US,NW-PF4A7ZKH,TRUE,Windows,10.0.22631.7376,AzureAd,Hannah Novak,Microsoft Intune,Microsoft Intune,FALSE,2/28/2023,9/14/2026
+ff15e37e-b970-54fc-a0b9-33558ed4dba5,2caf47b4-540b-5368-9449-c7fb0b4609b9,TRUE,RegisteredDevice,Latitude 5420,NW-3DJ6PW3,TRUE,Windows,10.0.22631.7376,AzureAd,Raj Iyer,Microsoft Intune,Microsoft Intune,FALSE,9/25/2024,9/10/2026
+67140d19-2c23-5bc1-a0d2-c483adb3c516,840ef9d4-9a83-556c-96bf-053153846794,TRUE,RegisteredDevice,MacBook Air 13,NW-C02WL9PSQ05D,TRUE,macOS,15.5,AzureAd,Mei Chen,Microsoft Intune,Microsoft Intune,FALSE,5/8/2024,9/28/2026
+3e91322a-7c94-59b1-b48e-73a89b90c32d,6b64ea63-aea2-5e84-9b39-69d672f2b63a,TRUE,RegisteredDevice,Latitude 5440,NW-2HR9ST3,TRUE,Windows,10.0.22631.7376,AzureAd,Oliver Grant,Microsoft Intune,Microsoft Intune,FALSE,3/19/2025,9/10/2026
+73526cd9-e75d-5b2a-b684-2d4be34980ae,2cf24747-2de3-5845-b788-72bf64630c82,TRUE,RegisteredDevice,Latitude 5440,NW-BX7K5Y3,TRUE,Windows,10.0.22631.7219,AzureAd,Lucia Ferreira,Microsoft Intune,Microsoft Intune,FALSE,6/11/2025,10/2/2026
+bb213758-6b0a-5d3a-b254-0cda6ad84d55,6dc58f92-c8ea-5141-9f77-2565e28694cd,TRUE,RegisteredDevice,21HD005RUS,NW-PF58NGE2,TRUE,Windows,10.0.22631.7376,AzureAd,Tomasz Wrobel,Microsoft Intune,Microsoft Intune,FALSE,8/27/2025,9/20/2026
+ecfeca0f-49b0-52bf-adeb-10120ba416eb,02fb91e7-fc6a-5fe9-be82-573280f9fb34,TRUE,RegisteredDevice,Latitude 5420,NW-6TC3WB3,TRUE,Windows,10.0.22631.7376,AzureAd,Grace Adeyemi,Microsoft Intune,Microsoft Intune,FALSE,10/29/2025,9/5/2026
+da8885d3-ce85-5568-948b-52fc52742a40,62565abb-d50a-5dcd-9f7d-b5d58d4e6bf5,TRUE,RegisteredDevice,Precision 7680,NW-JW2P8D3,TRUE,Windows,10.0.22631.7219,AzureAd,Nikolai Petrov,Microsoft Intune,Microsoft Intune,FALSE,3/31/2026,9/25/2026
+27cceeae-d4ba-5848-a3ce-6046be8559f1,030577f8-a2f1-516a-9a6f-3ff6f740b874,TRUE,RegisteredDevice,21CB0070US,NW-PF2GM6XA,TRUE,Windows,10.0.26200.8653,AzureAd,Priya Nair,Microsoft Intune,Microsoft Intune,FALSE,7/14/2026,11/2/2026
+9eb53683-e265-503b-b99b-104644cb88c5,1bec2133-f928-5b65-8886-3aa7eb710bd2,TRUE,RegisteredDevice,Latitude 5440,USSANTOSD,TRUE,Windows,10.0.22621.6060,AzureAd,Diego Santos,Microsoft Intune,Microsoft Intune,FALSE,1/13/2025,11/1/2026
+e6565b03-9a44-5c44-927f-49077c696086,7e600f89-60c9-5b16-b65d-d900fd7df8f2,TRUE,RegisteredDevice,Latitude 5450,NW-8VN1QK3,TRUE,Windows,10.0.26200.9711,AzureAd,Raj Iyer,Microsoft Intune,Microsoft Intune,TRUE,9/26/2026,11/2/2026
+3f0e46ee-e8d3-5395-9ff7-6bebacaa7af7,7d64d7cb-cc29-5892-8c1e-83549deada85,TRUE,RegisteredDevice,MacBook Pro 14,NW-C02FX7R2MD6T,TRUE,macOS,26.0.1,AzureAd,Mei Chen,Microsoft Intune,Microsoft Intune,TRUE,10/15/2026,11/2/2026
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,0,,,,

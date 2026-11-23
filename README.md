@@ -1,7 +1,7 @@
 # Agentic AI Demo: Inactive Device Investigation
 
 A demo for the IT Ops agentic AI training. Two AI agents investigate
-inactive devices across four data sources and propose actions. A human
+inactive devices across five data sources and propose actions. A human
 reviews and decides.
 
 > ⚠️ All data in this repository is fictional. Northwind Corp and its people
